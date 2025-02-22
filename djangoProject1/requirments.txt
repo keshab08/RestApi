@@ -1,0 +1,3 @@
+# https://web.postman.co/ for Testing
+pip install Django
+pip install django-tastypie
